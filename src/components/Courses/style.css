@@ -1,0 +1,22 @@
+.notification-container{
+    background-color: #EFEFEF !important;
+    margin-top: 2rem;
+    text-align: left;
+    padding-bottom: 2rem;
+}
+
+.card-container {
+    margin-top: 2rem;
+}
+
+.card {
+    border: 1rem;
+    box-shadow: 5px 5px 5px 5px #D3d3d3;
+    height: 362.5px !important;
+}
+
+.card-img-top{
+    height: 15rem;
+}
+
+

@@ -1,0 +1,29 @@
+
+
+
+@media only screen and (min-width: 1200px) {
+    .navigation-link {
+        margin-left: 30rem;
+    }
+    .navigation-brand {
+        margin-left: 20%;
+    }
+    .brand-img {
+        margin-right: 5px;
+    }
+    .nav-button{
+        background-color: #A41034 !important;
+        border-color: #A41034;
+    }
+  }
+
+  @media only screen and (max-width: 900px) {
+      .brand-name{
+          display: none
+      }
+      
+  }
+
+
+
+
