@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mobishaala/static/css/main.9041557e.chunk.css",
+    "main.js": "/mobishaala/static/js/main.c4d79a15.chunk.js",
+    "main.js.map": "/mobishaala/static/js/main.c4d79a15.chunk.js.map",
+    "runtime-main.js": "/mobishaala/static/js/runtime-main.ec9a8ad1.js",
+    "runtime-main.js.map": "/mobishaala/static/js/runtime-main.ec9a8ad1.js.map",
+    "static/css/2.91c80c38.chunk.css": "/mobishaala/static/css/2.91c80c38.chunk.css",
+    "static/js/2.6f61e3ec.chunk.js": "/mobishaala/static/js/2.6f61e3ec.chunk.js",
+    "static/js/2.6f61e3ec.chunk.js.map": "/mobishaala/static/js/2.6f61e3ec.chunk.js.map",
+    "index.html": "/mobishaala/index.html",
+    "precache-manifest.8eb8ec28cd018725c3dffefc7c0e2633.js": "/mobishaala/precache-manifest.8eb8ec28cd018725c3dffefc7c0e2633.js",
+    "service-worker.js": "/mobishaala/service-worker.js",
+    "static/css/2.91c80c38.chunk.css.map": "/mobishaala/static/css/2.91c80c38.chunk.css.map",
+    "static/css/main.9041557e.chunk.css.map": "/mobishaala/static/css/main.9041557e.chunk.css.map",
+    "static/js/2.6f61e3ec.chunk.js.LICENSE.txt": "/mobishaala/static/js/2.6f61e3ec.chunk.js.LICENSE.txt",
+    "static/media/c1.jpg": "/mobishaala/static/media/c1.8daf8ff8.jpg",
+    "static/media/font-awesome.min.css": "/mobishaala/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.png": "/mobishaala/static/media/logo.aae0b25e.png",
+    "static/media/playstore.png": "/mobishaala/static/media/playstore.3529aecc.png",
+    "static/media/screen.png": "/mobishaala/static/media/screen.74a01df7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9a8ad1.js",
+    "static/css/2.91c80c38.chunk.css",
+    "static/js/2.6f61e3ec.chunk.js",
+    "static/css/main.9041557e.chunk.css",
+    "static/js/main.c4d79a15.chunk.js"
+  ]
+}
