@@ -4,7 +4,6 @@ import {
     CarouselItem,
     CarouselControl,
     CarouselIndicators,
-    CarouselCaption
 } from 'reactstrap';
 
 import "./style.css"
@@ -22,7 +21,7 @@ const items = [
     }
 ];
 
-const ImageCarousel = (props) => {
+const ImageCarousel = () => {
     const [activeIndex, setActiveIndex] = useState(0);
     const [animating, setAnimating] = useState(false);
 
@@ -52,8 +51,8 @@ const ImageCarousel = (props) => {
             >
                 <div className="row image-container">
                     <div className="col-lg-3"></div>
-                    <div className="col-lg-6">
-                        <img src={item.src} className="image" />
+                    <div className="col-lg-6" style={{ paddingRight: 25 }}>
+                        <img src={item.src} className="image" alt="Error" />
                     </div>
                 </div>
             </CarouselItem>

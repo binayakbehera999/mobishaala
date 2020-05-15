@@ -66,7 +66,7 @@ const VideoCarousel = (props) => {
                         <Button className="carousel-button">JOIN CLASSES</Button>
 
                     </div>
-                    <div className="col-lg-4">
+                    <div className="col-lg-4" style={{ paddingRight: 25 }}>
                         <img src={item.src} className="video" alt={item.altText} />
                     </div>
                 </div>

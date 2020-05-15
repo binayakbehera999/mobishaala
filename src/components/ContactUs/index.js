@@ -29,7 +29,7 @@ const ContactUs = () => {
                         </div>
                     </div>
                     <div className="col-lg-6 map-container">
-                        <div style={{ height: '100%', width: '100%' }}>
+                        <div style={{ height: '49vh', width: '100%' }}>
                             <GoogleMapReact
                                 bootstrapURLKeys={{ key: "AIzaSyD4cycr5XWZaSxP7JmMhWraFhCk4mBhCGo" }}
                                 defaultCenter={{ lat: 59.95, lng: 30.33 }}

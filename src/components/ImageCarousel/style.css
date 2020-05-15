@@ -17,3 +17,13 @@
 }
 
 
+.card-box{
+    margin: 1rem !important;
+    padding: 0.5rem !important
+}
+
+@media only screen and (max-width: 600px) {
+    .card-box {
+        margin: 2rem !important;
+    }
+}

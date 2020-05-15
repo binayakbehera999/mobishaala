@@ -2,6 +2,8 @@ import React from "react"
 import "./style.css"
 import Img from "../../playstore.png"
 import ScreenImg from "../../screen.png"
+import IPhoneImg from "../../iphonex.png"
+
 
 
 const Mobile = () => {
@@ -18,16 +20,19 @@ const Mobile = () => {
                     <br></br>
                     <div className="row">
                         <div className="col-lg-6">
-                            <img src={Img} className="playstore"></img>
+                            <img src={Img} alt="Error" className="playstore"></img>
                         </div>
                         <div className="col-lg-6">
 
-                            <img src={Img} className="playstore"></img>
+                            <img src={Img} alt="Error" className="playstore"></img>
                         </div>
                     </div>
                 </div>
                 <div className="col-lg-6">
-                    <img className="mob-img" src={ScreenImg}></img>
+                    <center>
+                        <img className="mob-img" src={ScreenImg} alt="demo app" style={{ zIndex: 1 }}></img>
+                        <img className="mob-img" src={IPhoneImg} alt="iphone screen" ></img>
+                    </center>
 
                 </div>
 
