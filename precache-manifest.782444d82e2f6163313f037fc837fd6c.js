@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e71e2d459c1472910686c7683bea13f3",
+    "revision": "78d20001d3701df17670e72c1d11a7e3",
     "url": "/mobishaala/index.html"
   },
   {
-    "revision": "9206be9d32be1d59562b",
+    "revision": "a4edc3621039eb5f9d94",
     "url": "/mobishaala/static/css/2.91c80c38.chunk.css"
   },
   {
-    "revision": "23b8d78dbd598a805c09",
-    "url": "/mobishaala/static/css/main.9041557e.chunk.css"
+    "revision": "3318f0b24ed5c794cb71",
+    "url": "/mobishaala/static/css/main.7690e66f.chunk.css"
   },
   {
-    "revision": "9206be9d32be1d59562b",
-    "url": "/mobishaala/static/js/2.6f61e3ec.chunk.js"
+    "revision": "a4edc3621039eb5f9d94",
+    "url": "/mobishaala/static/js/2.47fc07ed.chunk.js"
   },
   {
     "revision": "6d94984a5fdbad217098935a3d45084e",
-    "url": "/mobishaala/static/js/2.6f61e3ec.chunk.js.LICENSE.txt"
+    "url": "/mobishaala/static/js/2.47fc07ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23b8d78dbd598a805c09",
-    "url": "/mobishaala/static/js/main.2dbfb8e5.chunk.js"
+    "revision": "3318f0b24ed5c794cb71",
+    "url": "/mobishaala/static/js/main.f9429cc0.chunk.js"
   },
   {
     "revision": "a7abb6d13e6e726224f3",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/mobishaala/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "b910dfc1ea4934dfe15c4acfb9fd688e",
+    "url": "/mobishaala/static/media/iphonex.b910dfc1.png"
   },
   {
     "revision": "aae0b25e5a95849d344bb9267c3a32d4",

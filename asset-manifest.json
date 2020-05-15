@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/mobishaala/static/css/main.9041557e.chunk.css",
-    "main.js": "/mobishaala/static/js/main.2dbfb8e5.chunk.js",
-    "main.js.map": "/mobishaala/static/js/main.2dbfb8e5.chunk.js.map",
+    "main.css": "/mobishaala/static/css/main.7690e66f.chunk.css",
+    "main.js": "/mobishaala/static/js/main.f9429cc0.chunk.js",
+    "main.js.map": "/mobishaala/static/js/main.f9429cc0.chunk.js.map",
     "runtime-main.js": "/mobishaala/static/js/runtime-main.ec9a8ad1.js",
     "runtime-main.js.map": "/mobishaala/static/js/runtime-main.ec9a8ad1.js.map",
     "static/css/2.91c80c38.chunk.css": "/mobishaala/static/css/2.91c80c38.chunk.css",
-    "static/js/2.6f61e3ec.chunk.js": "/mobishaala/static/js/2.6f61e3ec.chunk.js",
-    "static/js/2.6f61e3ec.chunk.js.map": "/mobishaala/static/js/2.6f61e3ec.chunk.js.map",
+    "static/js/2.47fc07ed.chunk.js": "/mobishaala/static/js/2.47fc07ed.chunk.js",
+    "static/js/2.47fc07ed.chunk.js.map": "/mobishaala/static/js/2.47fc07ed.chunk.js.map",
     "index.html": "/mobishaala/index.html",
-    "precache-manifest.0cc581666c109e6f5a9b1032ae7a3f70.js": "/mobishaala/precache-manifest.0cc581666c109e6f5a9b1032ae7a3f70.js",
+    "precache-manifest.782444d82e2f6163313f037fc837fd6c.js": "/mobishaala/precache-manifest.782444d82e2f6163313f037fc837fd6c.js",
     "service-worker.js": "/mobishaala/service-worker.js",
     "static/css/2.91c80c38.chunk.css.map": "/mobishaala/static/css/2.91c80c38.chunk.css.map",
-    "static/css/main.9041557e.chunk.css.map": "/mobishaala/static/css/main.9041557e.chunk.css.map",
-    "static/js/2.6f61e3ec.chunk.js.LICENSE.txt": "/mobishaala/static/js/2.6f61e3ec.chunk.js.LICENSE.txt",
+    "static/css/main.7690e66f.chunk.css.map": "/mobishaala/static/css/main.7690e66f.chunk.css.map",
+    "static/js/2.47fc07ed.chunk.js.LICENSE.txt": "/mobishaala/static/js/2.47fc07ed.chunk.js.LICENSE.txt",
     "static/media/c1.jpg": "/mobishaala/static/media/c1.8daf8ff8.jpg",
     "static/media/font-awesome.min.css": "/mobishaala/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/iphonex.png": "/mobishaala/static/media/iphonex.b910dfc1.png",
     "static/media/logo.png": "/mobishaala/static/media/logo.aae0b25e.png",
     "static/media/playstore.png": "/mobishaala/static/media/playstore.3529aecc.png",
     "static/media/screen.png": "/mobishaala/static/media/screen.74a01df7.png"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.ec9a8ad1.js",
     "static/css/2.91c80c38.chunk.css",
-    "static/js/2.6f61e3ec.chunk.js",
-    "static/css/main.9041557e.chunk.css",
-    "static/js/main.2dbfb8e5.chunk.js"
+    "static/js/2.47fc07ed.chunk.js",
+    "static/css/main.7690e66f.chunk.css",
+    "static/js/main.f9429cc0.chunk.js"
   ]
 }
