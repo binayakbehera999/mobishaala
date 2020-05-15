@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mobishaala/static/css/main.9041557e.chunk.css",
-    "main.js": "/mobishaala/static/js/main.aa486d6d.chunk.js",
-    "main.js.map": "/mobishaala/static/js/main.aa486d6d.chunk.js.map",
+    "main.js": "/mobishaala/static/js/main.2dbfb8e5.chunk.js",
+    "main.js.map": "/mobishaala/static/js/main.2dbfb8e5.chunk.js.map",
     "runtime-main.js": "/mobishaala/static/js/runtime-main.ec9a8ad1.js",
     "runtime-main.js.map": "/mobishaala/static/js/runtime-main.ec9a8ad1.js.map",
     "static/css/2.91c80c38.chunk.css": "/mobishaala/static/css/2.91c80c38.chunk.css",
     "static/js/2.6f61e3ec.chunk.js": "/mobishaala/static/js/2.6f61e3ec.chunk.js",
     "static/js/2.6f61e3ec.chunk.js.map": "/mobishaala/static/js/2.6f61e3ec.chunk.js.map",
     "index.html": "/mobishaala/index.html",
-    "precache-manifest.3be65c8539c6cb9a3829e7791de8fe5b.js": "/mobishaala/precache-manifest.3be65c8539c6cb9a3829e7791de8fe5b.js",
+    "precache-manifest.0cc581666c109e6f5a9b1032ae7a3f70.js": "/mobishaala/precache-manifest.0cc581666c109e6f5a9b1032ae7a3f70.js",
     "service-worker.js": "/mobishaala/service-worker.js",
     "static/css/2.91c80c38.chunk.css.map": "/mobishaala/static/css/2.91c80c38.chunk.css.map",
     "static/css/main.9041557e.chunk.css.map": "/mobishaala/static/css/main.9041557e.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.91c80c38.chunk.css",
     "static/js/2.6f61e3ec.chunk.js",
     "static/css/main.9041557e.chunk.css",
-    "static/js/main.aa486d6d.chunk.js"
+    "static/js/main.2dbfb8e5.chunk.js"
   ]
 }

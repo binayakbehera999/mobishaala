@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59111b38cae8547e2deb381c42f1ac04",
+    "revision": "e71e2d459c1472910686c7683bea13f3",
     "url": "/mobishaala/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobishaala/static/css/2.91c80c38.chunk.css"
   },
   {
-    "revision": "9b42d0ebe822734cd2d1",
+    "revision": "23b8d78dbd598a805c09",
     "url": "/mobishaala/static/css/main.9041557e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobishaala/static/js/2.6f61e3ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b42d0ebe822734cd2d1",
-    "url": "/mobishaala/static/js/main.aa486d6d.chunk.js"
+    "revision": "23b8d78dbd598a805c09",
+    "url": "/mobishaala/static/js/main.2dbfb8e5.chunk.js"
   },
   {
     "revision": "a7abb6d13e6e726224f3",
